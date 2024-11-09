@@ -1,11 +1,14 @@
 {
     "name": "laravel/laravel",
     "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^7.2||^8.0",
+        "php": "~8.1",
         "barryvdh/laravel-dompdf": "^0.8.3",
         "fakerphp/faker": "^1.14",
         "fideloper/proxy": "^4.4",
